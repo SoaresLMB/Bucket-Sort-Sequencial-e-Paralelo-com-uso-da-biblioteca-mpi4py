@@ -9,4 +9,5 @@ Ilustração esquemática do Algoritmo, Fonte:https://www.geeksforgeeks.org/buck
 O Algoritimo Distríbuido proposto segue a estrutura exemplificada abaixo:
 
 ![algoritimo](https://user-images.githubusercontent.com/98189939/192037381-7472fc68-a9e3-4002-b47b-b15e2ab863cf.jpg)
+Fonte: Autor
 
